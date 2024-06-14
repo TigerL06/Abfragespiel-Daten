@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "66504d242202156216b58f12"
+  },
+  "Number": 1,
+  "Französisch": "livre",
+  "Deutsch": "Buch"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f13"
+  },
+  "Number": 2,
+  "Französisch": "chaise",
+  "Deutsch": "Stuhl"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f14"
+  },
+  "Number": 3,
+  "Französisch": "table",
+  "Deutsch": "Tisch"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f15"
+  },
+  "Number": 4,
+  "Französisch": "fenêtre",
+  "Deutsch": "Fenster"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f16"
+  },
+  "Number": 5,
+  "Französisch": "porte",
+  "Deutsch": "Tür"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f17"
+  },
+  "Number": 6,
+  "Französisch": "ordinateur",
+  "Deutsch": "Computer"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f18"
+  },
+  "Number": 7,
+  "Französisch": "téléphone",
+  "Deutsch": "Telefon"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f19"
+  },
+  "Number": 8,
+  "Französisch": "voiture",
+  "Deutsch": "Auto"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f1a"
+  },
+  "Number": 9,
+  "Französisch": "maison",
+  "Deutsch": "Haus"
+},
+{
+  "_id": {
+    "$oid": "66504d242202156216b58f1b"
+  },
+  "Number": 10,
+  "Französisch": "jardin",
+  "Deutsch": "Garten"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddbe"
+  },
+  "Number": 11,
+  "Französisch": "lampe",
+  "Deutsch": "Lampe"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddbf"
+  },
+  "Number": 12,
+  "Französisch": "stylo",
+  "Deutsch": "Stift"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc0"
+  },
+  "Number": 13,
+  "Französisch": "papier",
+  "Deutsch": "Papier"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc1"
+  },
+  "Number": 14,
+  "Französisch": "fenêtre",
+  "Deutsch": "Fenster"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc2"
+  },
+  "Number": 15,
+  "Französisch": "clavier",
+  "Deutsch": "Tastatur"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc3"
+  },
+  "Number": 16,
+  "Französisch": "souris",
+  "Deutsch": "Maus"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc4"
+  },
+  "Number": 17,
+  "Französisch": "bureau",
+  "Deutsch": "Schreibtisch"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc5"
+  },
+  "Number": 18,
+  "Französisch": "lampe",
+  "Deutsch": "Lampe"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc6"
+  },
+  "Number": 19,
+  "Französisch": "horloge",
+  "Deutsch": "Uhr"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc7"
+  },
+  "Number": 20,
+  "Französisch": "sac",
+  "Deutsch": "Tasche"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc8"
+  },
+  "Number": 21,
+  "Französisch": "bouteille",
+  "Deutsch": "Flasche"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddc9"
+  },
+  "Number": 22,
+  "Französisch": "clé",
+  "Deutsch": "Schlüssel"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddca"
+  },
+  "Number": 23,
+  "Französisch": "fenêtre",
+  "Deutsch": "Fenster"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddcb"
+  },
+  "Number": 24,
+  "Französisch": "miroir",
+  "Deutsch": "Spiegel"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddcc"
+  },
+  "Number": 25,
+  "Französisch": "porte",
+  "Deutsch": "Tür"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddcd"
+  },
+  "Number": 26,
+  "Französisch": "lit",
+  "Deutsch": "Bett"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddce"
+  },
+  "Number": 27,
+  "Französisch": "oreiller",
+  "Deutsch": "Kissen"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddcf"
+  },
+  "Number": 28,
+  "Französisch": "couverture",
+  "Deutsch": "Decke"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd0"
+  },
+  "Number": 29,
+  "Französisch": "lampe",
+  "Deutsch": "Lampe"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd1"
+  },
+  "Number": 30,
+  "Französisch": "fenêtre",
+  "Deutsch": "Fenster"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd2"
+  },
+  "Number": 31,
+  "Französisch": "étagère",
+  "Deutsch": "Bücherregal"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd3"
+  },
+  "Number": 32,
+  "Französisch": "règle",
+  "Deutsch": "Lineal"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd4"
+  },
+  "Number": 33,
+  "Französisch": "ciseaux",
+  "Deutsch": "Schere"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd5"
+  },
+  "Number": 34,
+  "Französisch": "carnet",
+  "Deutsch": "Notizbuch"
+},
+{
+  "_id": {
+    "$oid": "6662c06e7476d883b618ddd6"
+  },
+  "Number": 35,
+  "Französisch": "porte",
+  "Deutsch": "Tür"
+}]
